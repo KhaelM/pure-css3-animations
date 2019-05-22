@@ -1,0 +1,1 @@
+Some cool animation using pure CSS3 (no javascript)
